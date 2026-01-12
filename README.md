@@ -23,9 +23,7 @@ Me chamo Maycon de Castro Pereira, tenho 23 anos e sou natural do interior de Pa
 ### 🤖 Linguagens e Tecnologias (Data Analysis & Backend)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,django,github,git" />
 </div>
-<br/>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo"  />
