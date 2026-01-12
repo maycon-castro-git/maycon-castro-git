@@ -31,6 +31,9 @@ Me chamo Maycon de Castro Pereira, tenho 23 anos e sou natural do interior de Pa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerBI-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//git-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ---
