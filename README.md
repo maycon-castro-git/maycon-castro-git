@@ -6,9 +6,6 @@ Me chamo Maycon de Castro Pereira, tenho 23 anos e sou natural do interior de Pa
 
 
 <div align="left">
-  <a href="mailto:maycondatascience@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <p>📧 <b>Contato:</b> maycondatascience@gmail.com</p>
 </div>
 
