@@ -4,6 +4,9 @@
 
 Me chamo Maycon de Castro Pereira, tenho 23 anos e sou natural do interior de Pará. Atualmente, estou concluindo meu Curso de Ciência de Dados e atuo como Analista de Dados/Cientista de Dados/BI. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, onde falo sobre minha rotina de estudos, desenvolvimento de projetos voltados a dados, e minha evolução na área.
 
+<div align="left">
+https://img.icons8.com/?size=100&id=12623&format=png&color=000000 maycondatascience@gmail.com
+</div>
 ---
 
 <p align="left">
