@@ -24,8 +24,7 @@ Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e pro
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power BI" />
-  <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="40" alt="Excel" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="40" alt="Excel" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
