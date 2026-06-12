@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e pro
 
 ---
 
-### 🤖 Linguagens e Tecnologias (Data Analysis & Backend)
+### 🤖 Linguagens e Tecnologias (Data Analysis & Business Intelligenc)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
