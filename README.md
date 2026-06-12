@@ -22,7 +22,7 @@ Me chamo Maycon de Castro Pereira, tenho 23 anos e sou natural do interior do Pa
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power BI" />
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="40" alt="Excel" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" height="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" height="40" alt="SQL Server" />
 </div>
 
 
