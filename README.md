@@ -2,7 +2,7 @@
 
 **Analista de Dados & Business Intelligence**
 
-- Me chamo Maycon Castro,  
+- Me chamo Maycon Castro
 - Curso de Ciência de Dados
 - Veja meu curriculo 
 - Visite meu portifolio
